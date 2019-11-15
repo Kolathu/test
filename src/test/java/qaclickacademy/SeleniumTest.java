@@ -15,6 +15,9 @@ public class SeleniumTest {
 	public void elementsUi()
 	{
 		System.out.println("elementsUi");	
+		
+		System.out.println("Git");
+		System.out.println("Git2");
 	}
 	
 	
