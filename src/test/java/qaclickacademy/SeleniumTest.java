@@ -19,6 +19,10 @@ public class SeleniumTest {
 		System.out.println("Git");
 		System.out.println("Git2");
 	}
-	
+	@Test
+	public void Browser2AUtomation()
+	{
+		System.out.println("BrowserAUtomation");	
+	}
 	
 }
