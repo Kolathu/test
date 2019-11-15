@@ -8,6 +8,8 @@ public class RESTAPITest {
 	public void postJira()
 	{
 		System.out.println("postJira");
+		System.out.println("Git");
+		System.out.println("Git2");
 	}
 	
 	@Test
