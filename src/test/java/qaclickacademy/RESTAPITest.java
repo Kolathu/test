@@ -10,7 +10,11 @@ public class RESTAPITest {
 		System.out.println("postJira");
 		System.out.println("Git");
 		System.out.println("Git2");
-	}
+	System.out.println("Git2");
+}
+
+		
+		
 	
 	@Test
 	public void deleteTwitter()
